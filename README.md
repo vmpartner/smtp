@@ -65,7 +65,7 @@ services:
     restart: unless-stopped
 ```
 
-Usage example in golang
+Usage example in golang:
 ```
 package main
 
