@@ -1,6 +1,6 @@
-#Docker SMTP Server with DKIM
+# Docker SMTP Server with DKIM
 
-Target of this docker project get easiest way to add smtp to any site in 5 minute.
+#### Target of this docker project get easiest way to add smtp to any site in 5 minute.
 
 
 1. Generate DKIM online https://dkimcore.org/tools/
