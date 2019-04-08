@@ -109,3 +109,5 @@ func main() {
 }
 ```
 
+### Source
+Based on https://github.com/namshi/docker-smtp
